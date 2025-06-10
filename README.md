@@ -30,11 +30,11 @@ Ein historisches Textadventure in Prolog Ã¼ber das Leben der letzten Pharaonin Ã
 
 ### Ubuntu/Debian:
 
-sudo apt install swi-prolog
+```bashsudo apt install swi-prolog
 
 # Repository klonen
 git clone https://github.com/[dein-username]/kleopatra-adventure.git
-cd kleopatra-adventure```bash
+cd kleopatra-adventure
 
 # SWI-Prolog starten
 swipl
