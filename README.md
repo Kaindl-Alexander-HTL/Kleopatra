@@ -29,18 +29,18 @@ Ein historisches Textadventure in Prolog Ã¼ber das Leben der letzten Pharaonin Ã
 - SWI-Prolog oder GNU Prolog installiert
 
 ### Ubuntu/Debian:
-```bash
+
 sudo apt install swi-prolog
 
 # Repository klonen
 git clone https://github.com/[dein-username]/kleopatra-adventure.git
-cd kleopatra-adventure
+cd kleopatra-adventure```bash
 
 # SWI-Prolog starten
 swipl
 
-# In Prolog: Datei laden
-?- [kleopatra].
+```bash# In Prolog: Datei laden
+?- ['kleopatra.pl'].
 
 # Spiel starten
 ?- start_game.
