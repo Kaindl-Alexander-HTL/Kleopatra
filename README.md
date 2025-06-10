@@ -22,7 +22,7 @@ cd kleopatra-adventure
 # SWI-Prolog starten
 swipl
 
-```bash# In Prolog: Datei laden
+# In Prolog: Datei laden
 ?- ['kleopatra.pl'].
 
 # Spiel starten
