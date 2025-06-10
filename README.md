@@ -6,5 +6,5 @@ Hey User,
 
 This is our Textadventure of Kleopatra VII.
 
-Compile: ['Kleopatra.pl'].\n
+Compile: ['Kleopatra.pl'].
 Start the game: start_game.
